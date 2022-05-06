@@ -1,6 +1,9 @@
 I used PyCharm Professional to run this project. While Google Colab, Jupyter NoteBook, or other NoteBook capable services should work just fine, 
 this was run and tested using PyCharm. 
 
+Saving the data directly into the proect for running is what I did, however, any loacation should be fine. You will need to update the data path 
+in the code if you intend to run this on your machine.
+
 Python 3.9 was used.
 
 All imports can be downloaded inside of PyCharm or using the terminal in PyCharm using pip or conda. 

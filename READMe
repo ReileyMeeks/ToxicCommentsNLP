@@ -1,0 +1,11 @@
+I used PyCharm Professional to run this project. While Google Colab, Jupyter NoteBook, or other NoteBook capable services should work just fine, 
+this was run and tested using PyCharm. 
+
+Python 3.9 was used.
+
+All imports can be downloaded inside of PyCharm or using the terminal in PyCharm using pip or conda. 
+
+The data sets must be downloaded from Kaggle. The needed links and data to download are in the project. 
+The data is free and open sourced.
+This code is free for copy, and use. It is open source.
+The code has no known issues, however, it is sold free as is.
